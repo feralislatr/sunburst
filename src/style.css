@@ -1,0 +1,44 @@
+.labelContainer {
+  font-family: "Open Sans", sans-serif;
+  color: #4a4a4a;
+  position: absolute;
+}
+
+.percentLabelContainer {
+  font-weight: 600;
+  height: 50px;
+  width: 120px;
+}
+
+.percentLabel {
+  text-align: center;
+  margin: 0 auto;
+  font-size: 40px;
+}
+
+.subtextLabelContainer {
+  font-family: "Open Sans", sans-serif;
+  color: #4a4a4a;
+  height: 65px;
+  width: 140px;
+}
+
+.participantsLabel {
+  text-align: center;
+  margin: 0 auto;
+  font-style: italic;
+  font-size: 11px;
+}
+
+.subtextLabel {
+  text-align: center;
+  margin: 5px 0 0 0;
+  font-size: 12px;
+}
+
+.noDataLabel {
+  text-align: center;
+  margin: 5px 0 0 0;
+  color: #ccc;
+  font-size: 14px;
+}
